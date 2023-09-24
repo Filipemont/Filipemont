@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou o Filipe Monteiro 👋
+Apaixonado por tecnologia, educação, estudante de Análise e Desenvolvimento de Sistemas.
+<br/>
+Desenvolvedor focado em BackEnd utilizando C# e Asp.Net.
 
-<!--
-**Filipemont/Filipemont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-monteiro-lourenco/)
+[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipemonteiro73@gmail.com)
 
-Here are some ideas to get you started:
+![Filipe Monteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipemont&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipemont&layout=compact)
+
+## Tecnologias do meu interesse
+<div style = "display: inline_block"><br/>
+<img align="center" alt="CSHARP" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" alt="CSHARP" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="center" alt="CSHARP" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
