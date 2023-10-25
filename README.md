@@ -6,9 +6,10 @@ Desenvolvedor focado em BackEnd utilizando C# e .NetCore.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-monteiro-lourenco/)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipemonteiro73@gmail.com)
 
-![Filipe Monteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipemont&show_icons=true&theme=dracula)
+![Filipe Monteiro GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Filipemont&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipemont&layout=compact)
+
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filipemont&theme=dracula)
 
 ## Tecnologias do meu interesse
 <div style = "display: inline_block"><br/>
