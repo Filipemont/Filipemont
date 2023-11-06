@@ -1,7 +1,7 @@
 ### Olá, eu sou o Filipe Monteiro 👋
 Apaixonado por tecnologia, educação, estudante de Análise e Desenvolvimento de Sistemas.
 <br/>
-Desenvolvedor focado em BackEnd utilizando C# e .NetCore.
+Desenvolvedor focado em BackEnd utilizando C#, .NetCore, Java e Spring.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-monteiro-lourenco/)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipemonteiro73@gmail.com)
