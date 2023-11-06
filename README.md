@@ -9,7 +9,7 @@ Desenvolvedor focado em BackEnd utilizando C# e .NetCore.
 ![Filipe Monteiro GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Filipemont&theme=dracula)
 
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Filipemont&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipemont&layout=compact&theme=dracula)
 
 ## Tecnologias do meu interesse
 <div style = "display: inline_block"><br/>
