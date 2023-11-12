@@ -7,7 +7,7 @@ Desenvolvedor focado em BackEnd utilizando C#, .NetCore, Java e Spring.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-monteiro-lourenco/)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipemonteiro73@gmail.com)
 
-## Status
+## Status das Tecnologias
 ![Filipe Monteiro GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Filipemont&theme=dracula)
 
 
